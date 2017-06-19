@@ -1,0 +1,24 @@
+#game {
+  overflow: hidden;
+  width: 700px;
+  height: 450px;
+  max-width: 700px;
+  max-height: 450px;
+  position: relative;
+  margin: auto;
+}
+
+#time {
+	margin: auto;
+	text-align: center;
+	padding: 1rem;
+	font-size: 32px;
+
+}
+
+#status{
+	margin: auto;
+	text-align: center;
+	
+	font-size: 32px;
+}
